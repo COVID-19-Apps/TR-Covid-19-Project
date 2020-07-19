@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MZ-Covid19 Project</string>
+    <string name="app_name">TR-Covid19 Project</string>
     <string name="title_activity_maps">Map</string>
 
     <string-array name="category_food_provider">

@@ -83,7 +83,7 @@ public class HomeTreamentActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Intent.ACTION_DIAL);
-                intent.setData(Uri.parse("tel:0141-2225000"));
+                intent.setData(Uri.parse("tel:0381-2315879"));
                 startActivity(intent);
             }
         });
